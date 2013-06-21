@@ -79,8 +79,7 @@ Jsw.onReady(function () {
                 return;
             }
 
-            var path = Jsw.getComponent('fm-content').getCurrentDir() + '/' + name;
-            var url = '/filemanager/getimg.php?img=' + encodeURIComponent(path);
+            var url = '/smb/file-manager/show-image/?file=' + encodeURIComponent(name);
             file.writeAttribute('rel', 'lightbox[roadtrip]');
             file.writeAttribute('href', url);
             file.observe('click', function (event) {

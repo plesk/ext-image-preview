@@ -4,7 +4,7 @@
   <name>Lightbox</name>
   <description>Lightbox is a simple, unobtrusive script used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.</description>
   <version>2.05</version>
-  <release>1</release>
+  <release>2</release>
   <vendor>Parallels, Inc.</vendor>
-  <plesk_min_version>11.5.29</plesk_min_version>
+  <plesk_min_version>11.5.30</plesk_min_version>
 </module>
