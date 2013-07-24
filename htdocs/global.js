@@ -40,7 +40,7 @@ Jsw.onReady(function () {
                 evalJS:false, evalJSON:false
             }).transport.responseText;
 
-            var imagesUrl = '/modules/lightbox/external/images/';
+            var imagesUrl = '/modules/image-preview/external/images/';
             code = code.replace(/\.\.\/images\//g, imagesUrl);
             var styleElement = new Element("style");
             $(styleElement).update(code);
@@ -89,7 +89,7 @@ Jsw.onReady(function () {
         });
     };
 
-    var rootUrl = '/modules/lightbox/external/';
+    var rootUrl = '/modules/image-preview/external/';
 
     Script.includeJs(rootUrl + 'js/effects.js');
     Script.includeJs(rootUrl + 'js/builder.js');

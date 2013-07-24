@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
-  <id>lightbox</id>
-  <name>Lightbox</name>
-  <description>Lightbox is a simple, unobtrusive script used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.</description>
-  <version>2.05</version>
-  <release>3</release>
+  <id>image-preview</id>
+  <name>Image Preview</name>
+  <description>Plugin for file manager, which overlays images on top of the current page.</description>
+  <version>1.0</version>
+  <release>1</release>
   <vendor>Parallels, Inc.</vendor>
   <plesk_min_version>11.5.30</plesk_min_version>
 </module>
