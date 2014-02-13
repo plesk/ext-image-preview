@@ -491,6 +491,4 @@ Lightbox.prototype = {
 
 		return [pageWidth,pageHeight];
 	}
-}
-
-document.observe('dom:loaded', function () { new Lightbox(); });
+};
