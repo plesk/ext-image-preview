@@ -1,3 +1,4 @@
+// Copyright 1999-2014. Parallels IP Holdings GmbH. All Rights Reserved.
 (function() {
     if ("/smb/file-manager/list" != window.location.pathname) {
         return;
