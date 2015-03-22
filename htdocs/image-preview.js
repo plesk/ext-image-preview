@@ -1,4 +1,4 @@
-// Copyright 1999-2014. Parallels IP Holdings GmbH. All Rights Reserved.
+// Copyright 1999-2015. Parallels IP Holdings GmbH. All Rights Reserved.
 Jsw.onReady(function () {
     var supportedExtensions = ['.gif', '.jpg', '.jpeg', '.png', '.bmp'];
     var rootUrl = '/modules/image-preview/external/';
