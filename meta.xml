@@ -5,7 +5,7 @@
   <name>Image Preview</name>
   <description>Plugin for file manager, which overlays images on top of the current page.</description>
   <version>1.1</version>
-  <release>5</release>
-  <vendor>Parallels</vendor>
+  <release>6</release>
+  <vendor>Odin</vendor>
   <plesk_min_version>11.5.30</plesk_min_version>
 </module>
