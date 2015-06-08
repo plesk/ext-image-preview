@@ -1,0 +1,7 @@
+Image Preview
+
+Plugin for file manager, which overlays images on top of the current page.
+
+The following techniques are demonstrated:
+* Integration with file manager context menu.
+* Embedding of JavaScript code inside pages.
