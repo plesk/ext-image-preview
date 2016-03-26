@@ -1,4 +1,4 @@
-// Copyright 1999-2015. Parallels IP Holdings GmbH.
+// Copyright 1999-2016. Parallels IP Holdings GmbH.
 (function() {
     if (-1 == window.location.pathname.indexOf("/smb/file-manager/list")) {
         return;
