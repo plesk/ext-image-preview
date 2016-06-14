@@ -25,9 +25,8 @@ Jsw.onReady(function () {
                 return;
             }
 
-            var url = '/smb/file-manager/show-image/?file=' + encodeURIComponent(name);
             file.writeAttribute('rel', 'lightbox[roadtrip]');
-            file.writeAttribute('href', url);
+            file.writeAttribute('href', file.readAttribute('href').replace('/show?', '/show-image/?'));
         });
     });
 
