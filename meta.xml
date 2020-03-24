@@ -4,7 +4,7 @@
   <id>image-preview</id>
   <name>Image Preview</name>
   <description>Plugin for file manager, which overlays images on top of the current page.</description>
-  <category>domain_dns</category>
+  <category>client_tool</category>
   <version>1.2</version>
   <release>4</release>
   <vendor>Plesk</vendor>
