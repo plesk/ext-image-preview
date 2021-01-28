@@ -10,4 +10,5 @@
   <vendor>Plesk</vendor>
   <url>https://github.com/plesk/ext-image-preview</url>
   <plesk_min_version>11.5.30</plesk_min_version>
+  <plesk_max_version>18.0.33</plesk_max_version>
 </module>
