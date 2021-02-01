@@ -6,8 +6,9 @@
   <description>Plugin for file manager, which overlays images on top of the current page.</description>
   <category>client_tool</category>
   <version>1.2</version>
-  <release>4</release>
+  <release>5</release>
   <vendor>Plesk</vendor>
   <url>https://github.com/plesk/ext-image-preview</url>
   <plesk_min_version>11.5.30</plesk_min_version>
+  <plesk_max_version>18.0.33</plesk_max_version>
 </module>
